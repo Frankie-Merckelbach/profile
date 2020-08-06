@@ -1,0 +1,124 @@
+
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FCCBCB;
+    color: #d9adad;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+} 
+
+.intro {
+    height: 442px;
+    display: inherit;
+    border: 1.5px solid grey;
+    background-color:white ;
+    align-content: center;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.4);
+    margin: 20px;
+    border-radius: 5px;
+    margin-bottom: 34px;
+}
+
+.mid {
+        width: 776px;
+        background-color: white;
+        border: 1.5px solid grey;
+        border-radius: 5px;
+        margin-bottom: 34px;
+        height: 200px;
+        margin: 0 auto;
+        padding: 23px 39px;
+    
+
+}
+
+.last {
+    width: 776px;
+    background-color: white;
+    border: 1.5px solid grey;
+    border-radius: 5px;
+    height: 200px;
+    margin: 0 auto;
+    padding: 23px 39px;
+    margin-top: 34px;
+
+}
+
+#link {
+    background-color: #ad9d9d;
+    color: white;
+    text-decoration: none;
+    text-shadow: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+    /* padding: 15px ; */
+    /* border-radius: 5px; */
+    /* margin: 20px;    */
+    /* margin: 20px; */
+
+.img {
+    border-radius: 45%;
+    box-shadow: 5px, 5px, 3px, black;
+    border: 1px solid grey ;
+}
+.header{
+    
+    margin-bottom: 34px;
+}
+
+/* h1 {
+    color:#fccbcb;
+     text-align: center;  
+     line-height: normal;
+     /* font-family: 'Yanone Kaffeesatz', sans-serif; */ */
+/*  */
+     padding: 20px;
+     font-size: 40px;
+     font-weight: bolder;
+     margin: 30px; */
+}
+
+h2 {
+    /* margin: 20px; */
+    /* padding: 3%; */
+}
+/* 
+#socials {
+    text-decoration: none;
+    /* background-color: none; */
+    /* color: white; */
+}
+
+ul {
+    list-style: none;
+}
+ul li {
+    display: inline;
+
+} */ */
+
+/* 
+    */ */
+
+
+/* Choose a nice color and font-family for headers 
+(<h1>, <h2>, <h3>)
+Choose harmonious font-size and line-height 
+for headers
+Hint: small headers are more elegant. 
+If you check out any website 
+(Medium, Airbnb, etc.), you’ll see that the 
+font-size of their headers is quite small.
+Links
+Change the color & text-decoration of all the links
+Add hover effects to links 
+using the pseudo-class a:hover. */
